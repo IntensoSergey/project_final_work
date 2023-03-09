@@ -1,1 +1,1 @@
-# project_final_work
+# JS_Basic project work by Prokhodko Serhii.
